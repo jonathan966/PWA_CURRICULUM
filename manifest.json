@@ -1,0 +1,17 @@
+{
+  "lang": "en-us",
+  "name": "Curriculim_pwa",
+  "short_name": "Curriculim",
+  "description": "Este es un curriculum personal creado como pwa ",
+  "start_url": "/",
+  "background_color": "#2f3d58",
+  "theme_color": "#2f3d58",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+      {
+          "src": "images/icons/utec_tulancingo_logo.jpg",
+          "sizes": "72x72"
+      }
+  ]
+}
