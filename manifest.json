@@ -2,7 +2,7 @@
   "lang": "en-us",
   "name": "Curriculim_pwa",
   "short_name": "Curriculim",
-  "description": "Este es un curriculum personal creado como pwa ",
+  "description": "Este es un curriculum personal de Jonathan Granillo Robledo creado como pwa ",
   "start_url": "/",
   "background_color": "#2f3d58",
   "theme_color": "#2f3d58",
@@ -10,8 +10,8 @@
   "display": "standalone",
   "icons": [
       {
-          "src": "images/icons/utec_tulancingo_logo.jpg",
-          "sizes": "72x72"
+          "src": "/logo.png",
+          "sizes": "144x144"
       }
   ]
 }
